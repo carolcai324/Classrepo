@@ -1,0 +1,61 @@
+.howToDecorateYourRoom h1 {
+  color: #F92A82;
+}
+
+p {
+  font-size: 20px;
+  font-family: Arial;
+}
+
+.trending h2 {
+  color: grey;
+}
+
+.menu ul {
+  list-style-type: none;
+  display: inline-flex;
+}
+
+.menu li {
+  padding: 10px;
+}
+
+.menu a {
+  text-decoration: none;
+}
+
+.menu a:hover {
+  font-weight: bold;
+}
+
+p {
+  line-height: 30px;
+}
+
+.method1 h3 {
+  color: #62BBC1;
+}
+
+.method2 h3 {
+  color: #62BBC1;
+}
+
+.method1 h2 {
+  color: #30332E;
+}
+
+.method2 h2 {
+  color: #30332E;
+}
+
+.intro h1 {
+  color: #23C9FF;
+}
+
+.mostPopularTutorial h1 {
+  color: #23C9FF;
+}
+
+.mostPopularTutorial h2 {
+  color: #CCD5FF;
+}
